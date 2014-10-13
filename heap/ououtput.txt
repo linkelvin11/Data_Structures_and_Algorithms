@@ -1,0 +1,35 @@
+Choose a capacity for the binary heap: 
+Options:
+1 - Insert a new item into the binary heap
+2 - Set the key of a specified item
+3 - Delete a specified item
+4 - Perform a deleteMin
+5 - Quit
+Choose an option: Enter an id string (to insert): Enter an associated integer key: 
+Call to 'insert' returned: 0
+
+Options:
+1 - Insert a new item into the binary heap
+2 - Set the key of a specified item
+3 - Delete a specified item
+4 - Perform a deleteMin
+5 - Quit
+Choose an option: Enter an id string (to insert): Enter an associated integer key: 
+Call to 'insert' returned: 0
+
+Options:
+1 - Insert a new item into the binary heap
+2 - Set the key of a specified item
+3 - Delete a specified item
+4 - Perform a deleteMin
+5 - Quit
+Choose an option: Enter an id string (to insert): Enter an associated integer key: 
+Call to 'insert' returned: 0
+
+Options:
+1 - Insert a new item into the binary heap
+2 - Set the key of a specified item
+3 - Delete a specified item
+4 - Perform a deleteMin
+5 - Quit
+Choose an option: Enter an id string (to insert): Enter an associated integer key: 
